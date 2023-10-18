@@ -1,0 +1,38 @@
+{
+
+  "name": "mortis theme",
+
+  "version": "1.0",
+
+  "description": "brawl stars like theme idk. first attempt at themes btw",
+
+  "authors": [
+
+    {
+
+      "name": "kubune",
+
+      "id": "1009900733581246506"
+
+    }
+
+  ],
+
+  "semanticColors": {},
+
+  "rawColors": {},
+
+  "background": {
+
+    "blur": 0.6,
+
+    "url": "https://w0.peakpx.com/wallpaper/896/220/HD-wallpaper-creepy-harvest-mortis-brawl-stars-bs-mythic-thumbnail.jpg",
+
+    "alpha": 1
+
+  },
+
+  "spec": 2
+
+}
+
