@@ -2,7 +2,7 @@
 
   "name": "mortis theme",
 
-  "version": "1.0",
+  "version": "1.01",
 
   "description": "brawl stars like theme idk. first attempt at themes btw",
 
@@ -28,7 +28,7 @@
 
     "url": "https://w0.peakpx.com/wallpaper/896/220/HD-wallpaper-creepy-harvest-mortis-brawl-stars-bs-mythic-thumbnail.jpg",
 
-    "alpha": 1
+    "alpha": 0.4
 
   },
 
