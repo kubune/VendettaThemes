@@ -1,0 +1,130 @@
+﻿{
+    "name": "kubu i sabi theme",
+    "description": "Dla mojego aniołka <333",
+    "authors": [
+        {
+            "name": "kubune",
+            "id": "1009900733581246506"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#4c7f90"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#4c7f90"
+        ],
+        "TEXT_LINK": [
+            "#4c7f90"
+        ],
+        "TEXT_DANGER": [
+            "#4c7f90"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#081924"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#081924"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#081924"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#081924"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#4c7f90"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#081924"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#081924"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#081924"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#081924"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#0D126165"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#081924"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4c7f90"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#081924"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#081924"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#081924"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c4c4c4"
+        ],
+        "TEXT_LINK": [
+            "#4c7f90"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#4c7f90",
+        "PRIMARY_500": "#4c7f90",
+        "PRIMARY_600": "#081924",
+        "PRIMARY_630": "#081924",
+        "PRIMARY_660": "#081924",
+        "PRIMARY_700": "#081924",
+        "PRIMARY_800": "#081924",
+        "BRAND_260": "#4c7f90",
+        "BRAND_360": "#4c7f90",
+        "BRAND_500": "#4c7f90",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#4c7f90",
+        "YELLOW_300": "#4c7f90",
+        "ORANGE_345": "#4c7f90",
+        "GREEN_345": "#4c7f90",
+        "GREEN_360": "#4c7f90",
+        "RED_560" : "#4c7f90",
+        "RED_400": "#4c7f90"
+    },
+    "spec": 2,
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/1153253709170610197/1164546470859522048/History_2023-10-19-14-51-44.jpg?ex=65439b6a&is=6531266a&hm=f40386d0f36eba09c9415398923c4955f67c30f1410e57ea29909a55c8f2ad9a&",
+        "alpha": 0.5,
+        "color": "#081924"
+    }
+}
+
